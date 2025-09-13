@@ -9,7 +9,7 @@ Python 3, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook.
 
 **Состав проекта:**
 
-laptop_analysis.ipynb — ноутбук с анализом и кодом
+Laptop_Price.ipynb — ноутбук с анализом и кодом
 
 laptop.csv — исходный датасет
 
